@@ -1,0 +1,13 @@
+.bgHeader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: grey;
+}
+
+.bgHeader h1 {
+    text-transform: uppercase;
+    font-size: 1.2em;
+}
+

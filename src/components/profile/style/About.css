@@ -1,0 +1,22 @@
+.bgAbout {
+    margin: -150px 30px 0 30px;
+    background-color: gray;
+}
+
+.bgAbout p {
+    font-size: 18px;
+    text-align: center;
+    padding: 50px 100px;
+    padding-top: 130px;
+}
+
+@media screen and (max-width: 600px) {
+    .bgAbout {
+        margin-top: -130px;
+    }
+
+    .bgAbout p {
+        padding: 50px 50px;
+        padding-top: 100px;
+    }
+  }

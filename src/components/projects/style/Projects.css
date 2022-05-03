@@ -1,0 +1,12 @@
+.bgProjects {
+    margin: 30px;
+    padding: 30px;
+    padding-bottom: 0;
+    background-color: gray;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
